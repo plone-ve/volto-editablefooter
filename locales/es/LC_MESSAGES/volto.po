@@ -1,102 +1,110 @@
+# Translation of volto.pot to Spanish
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Plone\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language: \n"
-"Language-Team: \n"
-"Content-Type: \n"
-"Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"POT-Creation-Date: 2021-10-23T14:58:40.747Z\n"
+"PO-Revision-Date: 2023-05-19 00:40-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language: es\n"
+"Language-Team: ES <LL@li.org>\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Preferred-Encodings: utf-8\n"
+"MIME-Version: 1.0\n"
+"Language-Code: es\n"
+"Language-Name: Español\n"
+"Domain: volto\n"
+"X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
 
 #: widget/FooterConfigurationWidget
 # defaultMessage: Add footer path
 msgid "editablefooter-add-rootpath"
-msgstr ""
+msgstr "Añadir ruta de pie de página"
 
 #: widget/FooterConfigurationWidget
 # defaultMessage: Add footer column
 msgid "editablefooter-addfootercolumn"
-msgstr ""
+msgstr "Añadir columna de pie de página"
 
 #: widget/FooterConfigurationWidget
 # defaultMessage: Delete
 msgid "editablefooter-delete-button"
-msgstr ""
+msgstr "Eliminar"
 
 #: widget/FooterConfigurationWidget
 # defaultMessage: Delete footer path
 msgid "editablefooter-delete-footerpath"
-msgstr ""
+msgstr "Eliminar ruta de pie de página"
 
 #: widget/FooterConfigurationForm
 # defaultMessage: Delete footer column
 msgid "editablefooter-deletefootercolumn"
-msgstr ""
+msgstr "Eliminar columna de pie de página"
 
 #: widget/FooterConfigurationForm
 # defaultMessage: Delete footer column
 msgid "editablefooter-deletefootercolumn-button"
-msgstr ""
+msgstr "Eliminar columna de pie de página"
 
 #: widget/FooterConfigurationWidget
 # defaultMessage: Select or add a footer column
 msgid "editablefooter-emptyActiveFooterColumn"
-msgstr ""
+msgstr "Seleccionar o añadir columna de pie de página"
 
 #: widget/FooterConfigurationWidget
 # defaultMessage: Select or add a footer path
 msgid "editablefooter-emptyActiveFooterPath"
-msgstr ""
+msgstr "Seleccionar o añadir ruta de pie de página"
 
 #: widget/FooterConfigurationWidget
 # defaultMessage: Footer columns
 msgid "editablefooter-items-header"
-msgstr ""
+msgstr "Columnas de pie de página"
 
 #: widget/FooterConfigurationWidget
 # defaultMessage: Move column down
 msgid "editablefooter-move-column-down"
-msgstr ""
+msgstr "Mover columna hacia abajo"
 
 #: widget/FooterConfigurationWidget
 # defaultMessage: Move column up
 msgid "editablefooter-move-column-up"
-msgstr ""
+msgstr "Mover columna hacia arriba"
 
 #: widget/FooterConfigurationForm
 # defaultMessage: Show newsletter subscribe form
 msgid "editablefooter-newsletterSubscribe"
-msgstr ""
+msgstr "Mostrar formulario de suscripción al boletín"
 
 #: widget/FooterConfigurationWidget
 # defaultMessage: Root path
 msgid "editablefooter-rootpath"
-msgstr ""
+msgstr "Ruta raíz"
 
 #: widget/FooterConfigurationForm
 # defaultMessage: Show social links
 msgid "editablefooter-showSocial"
-msgstr ""
+msgstr "Mostrar enlaces redes sociales"
 
 #: widget/FooterConfigurationForm
 # defaultMessage: Text
 msgid "editablefooter-text"
-msgstr ""
+msgstr "Texto"
 
 #: widget/FooterConfigurationForm
 # defaultMessage: Title
 msgid "editablefooter-title"
-msgstr ""
+msgstr "Título"
 
 #: widget/FooterConfigurationForm
 # defaultMessage: Title link
 msgid "editablefooter-titleLink"
-msgstr ""
+msgstr "Enlace del título"
 
 #: widget/FooterConfigurationForm
 # defaultMessage: Visible
 msgid "editablefooter-visible"
-msgstr ""
+msgstr "Visible"
